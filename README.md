@@ -1,4 +1,3 @@
-<!--==================== BANNIÈRE PROFIL ====================-->
 <div align="center">
   <img src="./banniere.png" alt="Bannière Profil" width="100%">
   <br>
@@ -8,7 +7,6 @@
 <h1 align="center">👋 Hello, I'm Dryz3R / Slyre</h1>
 <hr>
 
-<!--==================== À PROPOS ====================-->
 ## 📖 À Propos de Moi
 
 ```javascript
@@ -26,9 +24,6 @@ const Dryz3R = {
 
 <hr>
 
-<!--==================== SCRAPHUB ====================-->
-## 🖥️ Scraphub
-
 <div align="center">
   <a href="https://www.scraphub.org" target="_blank">
     <img src="scraphub.png" alt="Scraphub" width="100%"/>
@@ -39,7 +34,6 @@ const Dryz3R = {
 
 <hr>
 
-<!--==================== STATISTIQUES ====================-->
 ## 📊 Statistiques GitHub
 
 <div align="center">
@@ -51,12 +45,10 @@ const Dryz3R = {
 
 <hr>
 
-<!--==================== PROJETS ====================-->
 ## 🎴 Mes Projets
 
 ### 🔥 Projets Populaires
 
-<!-- Répétez ce bloc pour chaque projet -->
 <div align="center">
   <table>
     <tr>
@@ -74,7 +66,6 @@ const Dryz3R = {
 
 <hr>
 
-<!--==================== CONTACT ====================-->
 ## 📞 Contact
 
 <div align="center">
@@ -86,7 +77,6 @@ const Dryz3R = {
 
 <hr>
 
-<!--==================== ABONNEZ-VOUS ====================-->
 <div align="center">
   <h2>📌 Abonnez-vous à mon GitHub</h2>
   <a href="https://github.com/Dryz3R?tab=followers" target="_blank">
