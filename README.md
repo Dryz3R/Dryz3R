@@ -6,10 +6,6 @@
 </div>
 
 <h1 align="center">👋 Hello, I'm Dryz3R / Slyre</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Développeur+Passionné;Scraping+Expert;Automation+Enthusiast" alt="Typing SVG" />
-</p>
-
 <hr>
 
 <!--==================== À PROPOS ====================-->
