@@ -20,11 +20,11 @@ const Dryz3R = {
   pronouns: "il" | "lui",
   code: ["Python", "JavaScript", "PHP", "HTML/CSS"],
   technologies: {
-      webScraping: ["Selenium", "BeautifulSoup", "Scrapy", "Playwright"],
+      webScraping: ["Selenium", "BeautifulSoup", "Scrapy", "Playwright", "etc etc in c++"],
       automation: ["Puppeteer", "AutoHotkey", "Tasker"],
-      database: ["MySQL", "SQLite", "MongoDB"],
+      database: ["MySQL", "SQLite", "MongoDB","and more"],
   },
-  hobbies: ["Coding", "Gaming", "Music Production", "3D Modeling"]
+  hobbies: ["Coding", "Gaming", "Cyber", "Robotic"]
 };
 ```
 
@@ -64,30 +64,9 @@ const Dryz3R = {
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">Nom du Projet 1</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/350x200/6e5494/ffffff?text=Projet+1" alt="Projet 1">
-        </div>
-        <br>
-        <p>Description courte du projet et de ses fonctionnalités principales.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Nom du Projet 2</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/350x200/4078c0/ffffff?text=Projet+2" alt="Projet 2">
-        </div>
-        <br>
-        <p>Description courte du projet et de ses fonctionnalités principales.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-        </p>
-      </td>
+        <td>
+      #COME SOON
+        </td>
     </tr>
   </table>
 </div>
@@ -104,15 +83,8 @@ const Dryz3R = {
 
 <div align="center">
   <p>N'hésitez pas à me contacter pour discuter de collaborations ou de projets!</p>
-  
-  <a href="mailto:votre.email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://discord.gg/votreserveur" target="_blank">
+  <a href="https://discord.gg/snaDSfj6" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://t.me/votrepseudo" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
 
