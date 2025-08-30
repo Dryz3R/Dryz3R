@@ -62,7 +62,6 @@ const Dryz3R = {
 ### 🚧 Projets à Venir
 
 <h3 align="center">COME SOON</h3>
-<p align="center">De nouveaux projets passionnants arrivent bientôt!</p>
 
 <hr>
 
