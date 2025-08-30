@@ -31,7 +31,7 @@ const Dryz3R = {
 
 <div align="center">
   <a href="https://www.scraphub.org" target="_blank">
-    <img src="scraphub.png" alt="Scraphub" width="300"/>
+    <img src="scraphub.png" alt="Scraphub" width="100%"/>
   </a>
   <br>
   <p>Découvrez <a href="https://www.scraphub.org" target="_blank"><b>Scraphub</b></a> pour vos meilleurs scrapes et automatisations.</p>
