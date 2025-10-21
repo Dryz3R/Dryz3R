@@ -1,86 +1,119 @@
+# Dryz3R | Slyre
+
 <div align="center">
-  <img src="./banniere.png" alt="Bannière Profil" width="100%">
-  <br>
-  <img src="./masquotte.jpg" alt="Photo Profil" width="200" height="200" style="border-radius: 50%; border: 4px solid #6e5494; margin-top: -80px;">
+  <img src="./masquotte.jpg" alt="Profile" width="120" height="120" style="border-radius: 50%;">
 </div>
 
-<h1 align="center">👋 Hello, I'm Dryz3R / Slyre</h1>
-<hr>
+## Technical Profile
 
-## 📖 À Propos de Moi
+**Dryz3R** | **Slyre**  
+Cybersecurity & Automation Specialist
 
-```javascript
-const Dryz3R = {
-  pronouns: "il" | "lui",
-  code: ["Python", "JavaScript", "PHP", "HTML/CSS"],
-  technologies: {
-      webScraping: ["Selenium", "BeautifulSoup", "Scrapy", "Playwright", "etc etc in c++"],
-      automation: ["Puppeteer", "AutoHotkey", "Tasker"],
-      database: ["MySQL", "SQLite", "MongoDB","and more"],
-  },
-  hobbies: ["Coding", "Gaming", "Cyber", "Robotic"]
-};
+---
+
+## Core Competencies
+
+### Programming Languages
+- **Primary**: Python, JavaScript, PHP
+- **Secondary**: C++, HTML/CSS, SQL
+
+### Specialized Domains
+- **Web Scraping & Data Extraction**
+  - Selenium, BeautifulSoup, Scrapy, Playwright
+  - Custom C++ scraping solutions
+  - Large-scale data harvesting systems
+
+- **Process Automation**
+  - Puppeteer, AutoHotkey, Tasker
+  - Workflow optimization
+  - System integration
+
+- **Data Management**
+  - MySQL, SQLite, MongoDB
+  - Database architecture
+  - Performance optimization
+
+---
+
+## Professional Focus
+
+### Current Engagements
+- Advanced web scraping infrastructure
+- Cybersecurity research
+- Robotic process automation
+- System integration projects
+
+### Technical Philosophy
+- Efficiency through automation
+- Scalable architecture design
+- Security-first development
+- Performance optimization
+
+---
+
+## Technical Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dryz3R&theme=dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dryz3R&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+
+</div>
+
+---
+
+## Project Portfolio
+
+### Active Development
+- **Web Scraping Framework** - Multi-platform data extraction engine
+- **Automation Suite** - Cross-system process automation
+- **Security Tools** - Custom cybersecurity utilities
+
+### Infrastructure
+- High-performance scraping clusters
+- Distributed computing systems
+- Real-time data processing pipelines
+
+---
+
+## Professional Network
+
+<div align="center">
+
+**Technical Collaboration & Consultation**
+
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord)](https://discord.gg/snaDSfj6)
+
+</div>
+
+---
+
+## Metrics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dryz3R&style=flat-square&label=PROFILE+VIEWS&color=000000)
+
+[![GitHub Follow](https://img.shields.io/github/followers/Dryz3R?style=flat-square&label=FOLLOW&logo=github&color=000000)](https://github.com/Dryz3R?tab=followers)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Cybersecurity • Automation • Data Systems</sub>
+</div>
 ```
 
-<hr>
-
-<div align="center">
-  <a href="https://www.scraphub.org" target="_blank">
-    <img src="scraphub.png" alt="Scraphub" width="100%"/>
-  </a>
-  <br>
-  <p>Découvrez <a href="https://www.scraphub.org" target="_blank"><b>Scraphub</b></a> pour vos meilleurs scrapes et automatisations.</p>
-</div>
-
-<hr>
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dryz3R&theme=radical&hide_border=true" alt="Streak Stats" height="165">
-</div>
-
-<hr>
-
-## 🎴 Mes Projets
-
-### 🔥 Projets Populaires
-
-<div align="center">
-  <table>
-    <tr>
-        <td>
-      #COME SOON
-        </td>
-    </tr>
-  </table>
-</div>
-
-### 🚧 Projets à Venir
-
-<h3 align="center">COME SOON</h3>
-
-<hr>
-
-## 📞 Contact
-
-<div align="center">
-  <p>N'hésitez pas à me contacter pour discuter de collaborations ou de projets!</p>
-  <a href="https://discord.gg/snaDSfj6" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
-
-<hr>
-
-<div align="center">
-  <h2>📌 Abonnez-vous à mon GitHub</h2>
-  <a href="https://github.com/Dryz3R?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Dryz3R?style=for-the-badge&logo=github&label=Follow%20Me&color=6e5494" alt="Follow me"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Dryz3R&style=for-the-badge&color=6e5494" alt="Profile Views">
-</div>
+Ce README présente un design sobre et technique avec :
+- Palette de couleurs noire extrême (#000000)
+- Graphiques GitHub animés en continu
+- Statistiques complètes avec visualisations
+- Style professionnel sans emojis
+- Focus sur les compétences techniques
+- Métriques de profil en évidence
+- Design responsive et moderne
