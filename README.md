@@ -10,19 +10,19 @@
 
 ## 📊 LIVE STATISTICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=black_ice&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=black_ice&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" />
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dryz3R&theme=black-ice&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dryz3R&theme=black-ice&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&layout=compact&theme=black_ice&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&layout=compact&theme=black_ice&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&count_private=true" />
 
-![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dryz3R&theme=black_ice)
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dryz3R&theme=black_ice)
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dryz3R&theme=black_ice)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dryz3R&theme=black_ice" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dryz3R&theme=black_ice" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dryz3R&theme=black_ice" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dryz3R&theme=black&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=000000)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dryz3R&theme=black&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=000000" />
 
-![Snake Animation](https://github.com/Dryz3R/Dryz3R/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/Dryz3R/Dryz3R/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
 
 </div>
 
@@ -65,5 +65,8 @@
     border-radius: 15px;
     margin: 1rem 0;
     border: 1px solid #333;
+  }
+  img {
+    margin: 5px 0;
   }
 </style>
