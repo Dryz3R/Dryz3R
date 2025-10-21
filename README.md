@@ -14,7 +14,6 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dryz3R&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&count_private=true)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Dryz3R&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dryz3R&theme=dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=000000)
 
 </div>
