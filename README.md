@@ -10,27 +10,19 @@
 
 ## 📊 LIVE STATISTICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true)
-![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=black_ice&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dryz3R&theme=black-ice&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
-![Streak Stats Dark](https://github-readme-streak-stats.herokuapp.com/?user=Dryz3R&theme=react&background=0D1117&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&count_private=true)
-![Language Stats Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&count_private=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&layout=compact&theme=black_ice&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&count_private=true)
 
-![3D Stats](https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true&count_private=true)
-![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dryz3R&theme=github_dark)
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dryz3R&theme=github_dark)
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dryz3R&theme=github_dark)
-![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dryz3R&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dryz3R&theme=github_dark)
+![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dryz3R&theme=black_ice)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dryz3R&theme=black_ice)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dryz3R&theme=black_ice)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dryz3R&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&area_color=0D1117)
-![Activity Graph Black](https://github-readme-activity-graph.vercel.app/graph?username=Dryz3R&theme=black&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=000000)
-![Activity Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=Dryz3R&theme=github-dark&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=0D1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dryz3R&theme=black&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=000000)
 
-![Snake Animation](https://github.com/Dryz3R/Dryz3R/blob/output/github-contribution-grid-snake.svg)
-![Snake Dark](https://github.com/Dryz3R/Dryz3R/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/Dryz3R/Dryz3R/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
