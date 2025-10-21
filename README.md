@@ -10,11 +10,11 @@
 
 ## 📊 LIVE STATISTICS
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3416e08028c3921b92bd7263807ddc12bb20b21eacae7e22121534d214b39e61/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4472797a3352266c61796f75743d636f6d70616374267468656d653d626c61636b5f69636526686964655f626f726465723d747275652662675f636f6c6f723d303030303030267469746c655f636f6c6f723d66666666666626746578745f636f6c6f723d66666666666626636f756e745f707269766174653d74727565"><img src="https://camo.githubusercontent.com/3416e08028c3921b92bd7263807ddc12bb20b21eacae7e22121534d214b39e61/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4472797a3352266c61796f75743d636f6d70616374267468656d653d626c61636b5f69636526686964655f626f726465723d747275652662675f636f6c6f723d303030303030267469746c655f636f6c6f723d66666666666626746578745f636f6c6f723d66666666666626636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&amp;layout=compact&amp;theme=black_ice&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=ffffff&amp;count_private=true" style="max-width: 100%;"></a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=black_ice&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dryz3R&theme=black-ice&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryz3R&layout=compact&theme=black_ice&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&count_private=true" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dryz3R&theme=black_ice" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dryz3R&theme=black_ice" />
@@ -59,14 +59,7 @@
 </div>
 
 <style>
-  .header {
-    background: linear-gradient(45deg, #000000, #0D1117, #000000);
-    padding: 2rem;
-    border-radius: 15px;
-    margin: 1rem 0;
-    border: 1px solid #333;
-  }
-  img {
-    margin: 5px 0;
-  }
+img {
+  margin: 5px 0;
+}
 </style>
