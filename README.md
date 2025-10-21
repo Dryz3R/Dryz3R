@@ -6,9 +6,13 @@
 
 </div>
 
+## 🚀 À PROPOS
+
+Développeur passionné spécialisé dans le développement web et l'automatisation. Je crée des solutions logicielles efficaces en utilisant diverses technologies et langages de programmation.
+
 <div align="center">
 
-## 📊 LIVE STATS
+## 📊 STATISTIQUES EN DIRECT
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dryz3R&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dryz3R&theme=dark&background=000000&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
@@ -19,7 +23,7 @@
 
 </div>
 
-## 🛠 TECHNICAL STACK
+## 🛠 STACK TECHNIQUE
 
 <div align="center">
 
@@ -34,9 +38,13 @@
 
 <div align="center">
 
-## 🔗 CONNECT
+## 🔗 CONTACT
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/snaDSfj6)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dryz3R)
 
 </div>
+
+---
+
+*Dernière mise à jour : ${new Date().toLocaleDateString('fr-FR')}*
